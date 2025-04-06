@@ -1,6 +1,6 @@
 [package]
 name = "wasm-car-simulator"
-version = "0.1.1"
+version = "0.1.9"
 authors = ["Sebastien Lehmstedt <lehmstedt-sebastien@hotmail.fr>"]
 edition = "2018"
 
